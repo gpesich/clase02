@@ -10,4 +10,7 @@ html {
 
 body {
 	min-height: 100%;
+	padding: 16px 10px;
+	background-color: grey;
 }
+
