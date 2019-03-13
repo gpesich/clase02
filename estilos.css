@@ -19,3 +19,10 @@ p {
 	margin-top: 20px;
 }
 
+header {
+	background: red;
+}
+
+main {
+	padding: 16px;
+}
